@@ -1,11 +1,11 @@
-import React, { Component } from 'react';
+import React  from 'react';
 import Menu from './svg/bars-solid.svg';
 import Close from './svg/times-solid.svg';
 import Cart from './svg/shopping-cart-solid.svg';
 import {Link} from 'react-router-dom';
 import './Css/Header.css'
 
-export class Header extends Component {
+export class Header extends React.Component {
     state = {
         toggle: false
     }

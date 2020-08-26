@@ -1,11 +1,22 @@
-import React, { Component } from 'react'
+import React, { Component }from 'react';
+import Products from './Section/Product';
+import Details from './Section/Details';
+import {Route} from "react-router-dom"
 
-export class Section extends Component {
+
+// console.log(Products,Details);
+ class Section extends Component {
     render() {
+      
         return (
-            <div>
-                <h1>Section</h1>
-            </div>
+          
+            <section>
+            <Route  path="/product" component={Products} exact />
+            <Route path="/product/:id" component={Details}/>
+            
+            </section>
+           
+            
         )
     }
 }
