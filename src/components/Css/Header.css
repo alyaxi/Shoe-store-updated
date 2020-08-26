@@ -62,7 +62,7 @@ header .Close{
         background: #dcdde1;
         z-index: 99;
         opacity: 0.9;
-        transition: 0.7s linear;
+        transition: 0.5s linear;
     }
     header ul li a{
         color: #192a56;
