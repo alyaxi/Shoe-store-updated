@@ -51,7 +51,7 @@ header .Close{
 @media (max-width : 650px){
     header ul {
         position:fixed;
-        top: -100%;
+        top: -110%;
         left:0;
         width:100%;
         height: 100vh;
@@ -78,7 +78,7 @@ header .Close{
         right: 20px;
     }
     header ul.toggle{
-        top:-10;
+        top:-0;
     }
     
 }
