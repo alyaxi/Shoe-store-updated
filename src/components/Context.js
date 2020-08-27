@@ -13,7 +13,7 @@ export class DataProvider extends Component {
         description:
           "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         price: 54,
-        colors: ["red", "black", "white", "maroon"],
+        colors: ["red", "blue", "white", "maroon"],
       },
        {
         id: "jordan-mars-270-london",
@@ -23,7 +23,7 @@ export class DataProvider extends Component {
         description:
           "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         price: 45,
-        colors: ["red", "black", "white", "maroon"],
+        colors: ["red", "blue", "white", "maroon"],
       },
       {
         id: "air-jordan-1-zoom-racer-blue" ,
@@ -33,7 +33,7 @@ export class DataProvider extends Component {
         description:
           "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         price: 24,
-        colors: ["red", "black", "white", "maroon"],
+        colors: ["red", "blue", "white", "maroon"],
       },
       {
         id: "air-jordan-2-on-racer-blue" ,
@@ -43,7 +43,7 @@ export class DataProvider extends Component {
         description:
           "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         price: 24,
-        colors: ["red", "black", "white", "maroon"],
+        colors: ["red", "blue", "white", "maroon"],
       },
        {
         id: "air-wolf-1-zoom-racer-blue",
@@ -53,7 +53,7 @@ export class DataProvider extends Component {
         description:
           "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         price: 38,
-        colors: ["red", "black", "white", "maroon"],
+        colors: ["red", "blue", "white", "maroon"],
       },
        {
         id: "air-jaguar-1-zoom-racer-blue",
@@ -63,7 +63,7 @@ export class DataProvider extends Component {
         description:
           "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         price: 64,
-        colors: ["red", "black", "white", "maroon"],
+        colors: ["red", "blue", "white", "grey"],
       },
     ]
   };
