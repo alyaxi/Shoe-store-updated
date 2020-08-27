@@ -24,6 +24,7 @@ export class Header extends React.Component {
                </div>
                <div className="logo">
                     <h1><Link to='/'>Lusin</Link></h1>
+                    <p id="slogan">Created by Syed Ali Uz Zaman</p>
                </div>
                <nav>
                    <ul className={toggle ? 'toggle' : ""}>
